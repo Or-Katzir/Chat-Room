@@ -8,6 +8,8 @@ Client Server Chat Room Application
 
 •	Basic Java GUI 
 
+---------------------------------------------------------
+
 
 
 Chat User Functions:
@@ -23,6 +25,8 @@ Chat User Functions:
 •	Get notifications for changes in the chat users list 
 
 •	Leave the chat room  
+
+-----------------------------------------------------------
 
 
 
