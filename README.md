@@ -6,7 +6,6 @@ Client Server Chat Room Application
 
 •	MVC architecture
 
-•	Basic Java GUI 
 
 ---------------------------------------------------------
 
