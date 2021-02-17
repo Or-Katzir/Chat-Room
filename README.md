@@ -29,7 +29,7 @@ Chat User Functions:
 
 
 
-Server Manager Functions:
+Chat Manager Functions:
 
 •	Open / Close the chat room
 
